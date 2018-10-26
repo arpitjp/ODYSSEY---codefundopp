@@ -4,6 +4,9 @@
 ##### - Prediction system based on machine learning and image recognition.
 ##### - Preventing disaster impact through cross platform warning system.
 
+# Disvison of Zone
+we will divide the are acording to the prone disaster
+
 # Prediction
 ### TRAINING A MODEL
 
